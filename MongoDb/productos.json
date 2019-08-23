@@ -1,0 +1,12 @@
+{ 
+    "_id" : ObjectId("5d19aa1e9e6fda513016e830"), 
+    "nombre" : "fsssssss", 
+    "precio" : "ssssssfffffffffff", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5d19aa229e6fda513016e831"), 
+    "nombre" : "ffhhhhhhhhhhh", 
+    "precio" : "fffffffffffff", 
+    "__v" : NumberInt(0)
+}

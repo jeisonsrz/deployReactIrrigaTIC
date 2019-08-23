@@ -1,0 +1,8 @@
+{ 
+    "_id" : ObjectId("5d2d014f08ddbccc4c4d77e5"), 
+    "name" : "sdfsf", 
+    "email" : "dsfs@hhhh.com", 
+    "password" : "sfdafa", 
+    "avatar" : "sdfsafs", 
+    "date" : "sdfff"
+}
