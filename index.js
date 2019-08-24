@@ -24,7 +24,7 @@ next();
 });
 //app.use(express.static("."));
 //app.use("/", express.static(__dirname + "/public"));
-app.use(express.static(__dirname + '/public'));
+app.use("/",express.static(__dirname + '/public'));
 //app.use('/assets', express.static(path.join(__dirname, "../assets")));
 
 
