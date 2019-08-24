@@ -1,7 +1,7 @@
 const userController = require("../controllers/users");
 
 module.exports = (app) =>{
-    app.get("/api",(req,res)=>{
+    app.get("/api/prueba",(req,res)=>{
         res.send("Mi servidor en EXPRESS Y MONGO =P");
     });
     app.get("/api/usuarios", userController.allUsers);
