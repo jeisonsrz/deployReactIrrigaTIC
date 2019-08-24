@@ -10,7 +10,7 @@ const app = express();
 var cors = require('express-cors')
 app.use(cors({
    allowedOrigins: [
-       'http://localhost:3000',
+       'http://localhost:8081',
    ]
 }))
 
@@ -23,7 +23,8 @@ res.header(
 next();
 });
 app.use(express.static("."));
-app.use("/", express.static(__dirname + "/public"));
+//app.use("/", express.static(__dirname + "/public"));
+app.use(express.static(__dirname + '/public'));
 app.use('/assets', express.static(path.join(__dirname, "../assets")));
 
 
