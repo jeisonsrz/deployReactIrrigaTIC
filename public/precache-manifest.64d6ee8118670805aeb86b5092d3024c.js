@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/material-dashboard-react/static/media/sidebar-2.310509c9.jpg"
   },
   {
-    "revision": "284913f76a91a9fc6cf9",
+    "revision": "581a53b514f60c6b3871",
     "url": "/material-dashboard-react/static/css/main.4eebbae5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/material-dashboard-react/static/js/2.0c7d93b4.chunk.js"
   },
   {
-    "revision": "284913f76a91a9fc6cf9",
-    "url": "/material-dashboard-react/static/js/main.284913f7.chunk.js"
+    "revision": "581a53b514f60c6b3871",
+    "url": "/material-dashboard-react/static/js/main.581a53b5.chunk.js"
   },
   {
     "revision": "8e9f0a3c5578a20733d5bad0e51c91fb",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/material-dashboard-react/static/css/2.15893d3b.chunk.css"
   },
   {
-    "revision": "131988a3d768cb3a1eda31d6f8753dc6",
+    "revision": "17861467c3949138c95b9ee98ace9ce5",
     "url": "/material-dashboard-react/index.html"
   }
 ];
