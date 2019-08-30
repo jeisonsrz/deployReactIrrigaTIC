@@ -12,7 +12,7 @@ app.use(cors({
    allowedOrigins: [
        'http://localhost:8081',
    ]
-}))
+}));
 
 app.use((req,res,next) =>{
 res.header("Access-Control-Allow-Origin","*");
