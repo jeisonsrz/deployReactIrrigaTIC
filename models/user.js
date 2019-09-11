@@ -9,4 +9,4 @@ const userScheme = new mongo.Schema({
 
 });
 
-module.exports = mongo.model("User", userScheme);
+module.exports = mongo.model("productos", userScheme);
